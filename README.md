@@ -3,8 +3,6 @@ Repositorio para el curso de Linux de proteco.
 
 ![https://wallpaperplay.com/walls/full/d/d/8/172927.jpg](https://wallpaperplay.com/walls/full/d/d/8/172927.jpg)
 
-![](https://pbs.twimg.com/profile_images/1098678443930238978/6mPvIosC.png)
-
 ## Instructores
 - Alejandro Montecillo
 - Héctor Espino
