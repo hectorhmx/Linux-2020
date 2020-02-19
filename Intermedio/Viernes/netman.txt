@@ -1,0 +1,22 @@
+nmcli # nos permitirá ver nuestros adaptadores,y configuracion de dns.
+nmcli dev status#status de todos nuestros adaptadores de red
+
+nmcli con show#muestra todas las conecciones
+nmcli con show --active##Solo conexiones antiguas
+nmcli con show [conexion] #settings de alguna conexion
+nmcli -s con show [conexion] ##Settings de alguna conexion, con contraseñas en texto plano
+nmcli con edit "NombreConexion"
+nmcli con mod "Sup 1" ipv4.dns 8.8.8.8 ##otra forma de cambiar nuestro dns
+
+
+nmcli general hostname ##permite conocer el nombre de nuestra computadora
+nmcli general hostname [nombre] ##permite cambiarlo
+
+
+nmcli device wifi rescan###busca de nuevo las redes disponibles
+nmcli device wifi list ##lista de acces points 
+nmcli device wifi connect [SSID] password[contraseña]
+nmcli -ask device wifi connect [SSID] ##Nos pedirá contraseña de forma grafica
+
+
+nmcli radio wifi [on/off]##prender o apagar tu wifi
