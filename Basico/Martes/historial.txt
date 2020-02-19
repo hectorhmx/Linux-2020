@@ -1,0 +1,40 @@
+247  clear
+  248  history
+  249  sudo touch /etc/derek
+  250  mv /etc/derek /home/derekci/Escritorio
+  251  sudo mv /etc/derek /home/derekci/Escritorio
+  252  cd /
+  253  cd /home/derekci/Escritorio
+  254  cd ..
+  255  cd /Escritorio
+  256  cd Escritorio
+  257  mkdir carpeta1
+  258  cd ..
+  259  pwd
+  260  ls /bin
+  261  clear
+  262  ls -a /
+  263  ls 
+  264  cd Escritorio
+  265  ls
+  266  mkdir dir1 mkdir dir2 mkdir dir3
+  267  mkdir dir1
+  268  ls
+  269  mkdir /dir1/dir11
+  270  ls
+  271  ls dir1
+  272  cd dir1
+  273  mkdir dir1/dir11
+  274  ls
+  275  cd ..
+  276  ls
+  277  cd dir
+  278  mkdir dir11
+  279  cd ..
+  280  cd Escritorio
+  281  clear
+  282  history
+  283  clear
+  284  sudo touch /etc/
+  285  ls /etc
+  286  clear
